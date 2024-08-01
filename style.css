@@ -1,0 +1,32 @@
+/* #This is how we are styling to make it more appealing to the user */
+body {
+
+text-align: center; 
+background-image:linear-gradient(to left, #5e1c26, #3f234d);
+font-family: times new roman; 
+color: white;
+}
+
+h1 {
+	text-align: center; 
+}
+
+#names_Container {
+	font-size: 16px; 
+	font-weight: bold; 
+}
+
+.image {
+	align-content: center; 
+	opacity: 0.2;
+	background-repeat: repeat;
+}
+
+footer {
+  text-align: center;
+  padding: 4px;
+  background-color: #a8327d;
+  color: white;
+  font-weight: bold;
+
+}
